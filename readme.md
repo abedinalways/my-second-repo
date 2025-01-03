@@ -1,4 +1,4 @@
-every-time finish my work.
-git add .
-git commit -m "added readme"
+every-time finish my work.<br>
+git add .<br>
+git commit -m "added readme"<br>
 git push
